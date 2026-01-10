@@ -15,6 +15,7 @@
     width: 400px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 20px;
     line-height: 24px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -29,3 +30,8 @@ Challenge:
 Center the button and add some space above it
 */
 
+.btn {
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+}

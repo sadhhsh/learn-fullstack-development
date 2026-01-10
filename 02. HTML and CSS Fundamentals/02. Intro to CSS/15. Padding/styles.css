@@ -10,4 +10,7 @@
     Challenge:
     Add padding to make our card look like
     the provided design */
+
+    padding-top: 150px;
+    padding-right: 150px;
 }
