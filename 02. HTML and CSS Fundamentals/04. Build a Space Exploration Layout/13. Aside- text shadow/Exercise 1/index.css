@@ -8,8 +8,13 @@ body {
 
 h1 {
     font-size: 80px;
-    text-shadow: 5px 5px black;
+    /* text-shadow: 5px 5px black; */
     /*           ➡️   ⬇️  color */
+
+    /* text-shadow: -5px 5px 5px black; */
+    /*               ➡️  ⬇️  blur  color */
+
+    text-shadow: 5px -5px 5px black;
 }
 
 /*
