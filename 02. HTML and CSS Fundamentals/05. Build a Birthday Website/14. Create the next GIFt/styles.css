@@ -58,7 +58,7 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-.gift-img:hover {
+#gift-img-happy:hover {
     background-image: url("images/happy.gif");
 }
 
@@ -74,3 +74,7 @@ background-image(s) on :hover. Each GIFt will need a
 unique id that controls which background image that 
 should be shown when hovering over the element.
 */
+
+#gift-img-hot:hover {
+    background-image: url(images/hot.gif);
+}
